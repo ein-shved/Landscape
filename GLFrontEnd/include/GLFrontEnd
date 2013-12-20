@@ -1,0 +1,20 @@
+/*
+ * GLFrontEnd
+ *
+ * Designed and written by
+ *	 Shvedov Yury 321 group.
+ *
+ * Powered by
+ * 	 MediaLab, CMC MSU
+ *
+ * 3.11.2012
+ */
+
+#ifndef _GLFrontEnd_INCLUDE_
+#define _GLFrontEnd_INCLUDE_
+
+#include "../src/GLFrontEnd.hpp"
+#include "../src/Client.hpp"
+#include "../src/VirtualKeyCodes.hpp"
+
+#endif //_GLFrontEnd_INCLUDE_

@@ -1,0 +1,20 @@
+/*
+ * Serialization
+ *
+ * Designed and written by
+ *	 Shvedov Yury 321 group.
+ *
+ * Powered by
+ * 	 MediaLab, CMC MSU
+ *
+ * 11.11.2012
+ */
+
+#ifndef _SERIALIZATION_
+#define _SERIALIZATION_
+
+#include "../src/Serializer.hpp"
+#include "../src/OutFileSerializer.hpp"
+#include "../src/InFileSerializer.hpp"
+
+#endif //_SERIALIZATION_
